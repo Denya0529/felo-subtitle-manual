@@ -2,12 +2,12 @@
 
 * [Welcome](README.md)
 
-## 系统超级管理员指南
+## スーパーマネージャーガイド
 
-* [1. 开始使用](xi-tong-chao-ji-guan-li-yuan-zhi-nan/1.-kai-shi-shi-yong.md)
-* [2. 超管权限管理](xi-tong-chao-ji-guan-li-yuan-zhi-nan/2.-chao-guan-quan-xian-guan-li/README.md)
-  * [2.1 菜单管理](xi-tong-chao-ji-guan-li-yuan-zhi-nan/2.-chao-guan-quan-xian-guan-li/2.1-cai-dan-guan-li.md)
-  * [2.2 角色管理](xi-tong-chao-ji-guan-li-yuan-zhi-nan/2.-chao-guan-quan-xian-guan-li/2.2-jue-se-guan-li.md)
+* [1. スタート](spmanjgaido/1.-kai-shi-shi-yong.md)
+* [2. 超管权限管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/README.md)
+  * [2.1 菜单管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/2.1-cai-dan-guan-li.md)
+  * [2.2 角色管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/2.2-jue-se-guan-li.md)
 
 ***
 

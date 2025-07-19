@@ -12,4 +12,9 @@ coverY: 0
 
 #### Felo.meのバックエンド管理システムのユーザーマニュアルには以下の内容が含まれています：
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="broken-reference/">broken-reference</a></td><td><a href=".gitbook/assets/系统管理员.png">系统管理员.png</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><a href="broken-reference/">broken-reference</a></td><td><a href=".gitbook/assets/租户管理员.png">租户管理员.png</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
+* **スーパーマネージャーガイド：**\
+  マクロ視点を中心に、多テナントのライフサイクル管理とトップレベルのリソース承認に焦点を当て、プラットフォームレベルの運用の安定性と安全性を確保します。
+* **テナントスペース管理者ガイド：**\
+  ミクロ視点を中心に、テナント内のビジネスユニットの精緻な配置とリソースの再配分に焦点を当て、テナント内部の管理効率とコスト管理の向上を目指します。
+
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="broken-reference/">broken-reference</a></td><td><a href=".gitbook/assets/jp-1 (2).png">jp-1 (2).png</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><a href="broken-reference/">broken-reference</a></td><td><a href=".gitbook/assets/jp-2 (1).png">jp-2 (1).png</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
