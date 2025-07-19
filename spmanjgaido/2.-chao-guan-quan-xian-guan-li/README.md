@@ -2,11 +2,11 @@
 icon: file-lock
 ---
 
-# 2. 超管权限管理
+# 2. 管理者権限管理
 
-<div align="left"><figure><img src="../../.gitbook/assets/3.png" alt="" width="365"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5).png" alt="" width="204"><figcaption></figcaption></figure></div>
 
-#### **超管权限管理**模块是整个系统权限体系的基石，只有**超级管理员**才能访问。它的核心目标是建立一个灵活、安全、易于管理的角色-权限模型。
+#### **管理者権限管理**モジュールは、全体のシステム権限体系の基盤であり、スーパーマネージャーのみがアクセスできます。その核心目標は、柔軟で安全で管理しやすい役割-権限モデルを構築することです。
 
 #### 超管权限管理菜单以下两个部分组成：
 

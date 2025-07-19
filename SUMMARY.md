@@ -5,7 +5,7 @@
 ## スーパーマネージャーガイド
 
 * [1. スタート](spmanjgaido/1.-kai-shi-shi-yong.md)
-* [2. 超管权限管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/README.md)
+* [2. 管理者権限管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/README.md)
   * [2.1 菜单管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/2.1-cai-dan-guan-li.md)
   * [2.2 角色管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/2.2-jue-se-guan-li.md)
 
