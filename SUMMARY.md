@@ -8,11 +8,12 @@
 * [2. 管理者権限管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/README.md)
   * [2.1 メニュー管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/2.1-cai-dan-guan-li.md)
   * [2.2 ロール管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/2.2-jue-se-guan-li.md)
+  * [2.3 クライアント管理](spmanjgaido/2.-chao-guan-quan-xian-guan-li/23-kuraianto.md)
 
 ***
 
-* [3. 超管空间管理](3.-chao-guan-kong-jian-guan-li/README.md)
-  * [3.1 超管用户设置](3.-chao-guan-kong-jian-guan-li/3.1-chao-guan-yong-hu-she-zhi.md)
+* [3. スペース管理](3.-chao-guan-kong-jian-guan-li/README.md)
+  * [3.1 管理者ユーザー設定](3.-chao-guan-kong-jian-guan-li/3.1-chao-guan-yong-hu-she-zhi.md)
   * [3.2 空间管理](3.-chao-guan-kong-jian-guan-li/3.2-kong-jian-guan-li.md)
   * [3.3 时长管理 (空间)](3.-chao-guan-kong-jian-guan-li/3.3-shi-chang-guan-li-kong-jian.md)
 
