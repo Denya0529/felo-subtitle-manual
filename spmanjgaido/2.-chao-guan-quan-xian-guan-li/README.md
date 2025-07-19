@@ -4,7 +4,7 @@ icon: file-lock
 
 # 2. 管理者権限管理
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="204"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="204"><figcaption></figcaption></figure></div>
 
 #### **管理者権限管理**モジュールは、全体のシステム権限体系の基盤であり、スーパーマネージャーのみがアクセスできます。その核心目標は、柔軟で安全で管理しやすい役割-権限モデルを構築することです。
 

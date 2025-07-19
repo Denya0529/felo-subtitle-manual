@@ -4,7 +4,7 @@ icon: house-user
 
 # 3. スペース管理
 
-<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="311"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt="" width="311"><figcaption></figcaption></figure></div>
 
 
 
@@ -12,7 +12,7 @@ icon: house-user
 
 #### このモジュールは以下の3つの関連したサブモジュールで構成されています：
 
-#### [**3.1  管理者ユーザー設定**](./#id-31-yz)
+#### [**3.1  管理者ユーザー設定**](3.1-chao-guan-yong-hu-she-zhi.md)
 
 *   **機能：顧客ユーザースペースの管理者アカウントの作成と管理**
 
