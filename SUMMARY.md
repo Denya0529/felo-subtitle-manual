@@ -14,7 +14,7 @@
 
 * [3. スペース管理](3.-chao-guan-kong-jian-guan-li/README.md)
   * [3.1 管理者ユーザー設定](3.-chao-guan-kong-jian-guan-li/3.1-chao-guan-yong-hu-she-zhi.md)
-  * [3.2 空间管理](3.-chao-guan-kong-jian-guan-li/3.2-kong-jian-guan-li.md)
+  * [3.2 スペース管理](3.-chao-guan-kong-jian-guan-li/3.2-kong-jian-guan-li.md)
   * [3.3 时长管理 (空间)](3.-chao-guan-kong-jian-guan-li/3.3-shi-chang-guan-li-kong-jian.md)
 
 ## 租户空间管理员指南
