@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Felo subtitle前端使用指南](https://meet-manual.felo.me/felo-subtitles-manual-cn/)
 
 ## 系统超级管理员指南
 
