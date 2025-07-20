@@ -2,9 +2,27 @@
 icon: signs-post
 ---
 
-# 2. 渠道管理
+# 2. パートナー管理
 
-<div align="left"><figure><img src="../../.gitbook/assets/渠道管理.png" alt="" width="455"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (11).png" alt="" width="178"><figcaption></figcaption></figure></div>
+
+
+
+#### 「パートナー管理」モジュールは、space 管理者権限を持つ役割にのみ表示されます。
+
+このモジュールは、space 管理者がテナント内部のビジネスユニットと権限階層管理を行うためのコア機能セットです。
+
+テナント内部のリソースとグループ管理の精密なコントロールを実現することを目的としています。以下の3つのメニューが含まれています：
+
+* [2.1 グループ管理者一覧:](2.1-qun-zu-guan-li-yuan-lie-biao.md) グループ管理者アカウントの作成とメンテナンスする。
+* [2.2 グループ管理](2.2-qun-zu-guan-li.md): リソースグループの定義と設定に使用されます。
+* [2.3 期間管理（グループ）](2.3-shi-chang-guan-li-qun-zu.md)：グループに対する時間リソースの配分と割当制御に使用されます。
+
+これらの3つのコンポーネントの協調作業を通じて、テナント管理者はテナント環境内での多層管理構造とリソース配分戦略を効果的に構築および維持することができます。以下では、各コンポーネントの詳細な機能説明を行います。
+
+
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **“渠道管理”模块只对具有space管理员权限的角色可见。**
 

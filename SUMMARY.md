@@ -20,7 +20,7 @@
 ## テナントスペース管理者ガイド
 
 * [1. スタート](tenantosupsugaido/1.-kai-shi-shi-yong.md)
-* [2. 渠道管理](tenantosupsugaido/2.-qu-dao-guan-li/README.md)
+* [2. パートナー管理](tenantosupsugaido/2.-qu-dao-guan-li/README.md)
   * [2.1 群组管理员列表](tenantosupsugaido/2.-qu-dao-guan-li/2.1-qun-zu-guan-li-yuan-lie-biao.md)
   * [2.2 群组管理](tenantosupsugaido/2.-qu-dao-guan-li/2.2-qun-zu-guan-li.md)
   * [2.3 时长管理(群组)](tenantosupsugaido/2.-qu-dao-guan-li/2.3-shi-chang-guan-li-qun-zu.md)
