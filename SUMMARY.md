@@ -21,9 +21,9 @@
 
 * [1. スタート](tenantosupsugaido/1.-kai-shi-shi-yong.md)
 * [2. パートナー管理](tenantosupsugaido/2.-qu-dao-guan-li/README.md)
-  * [2.1 群组管理员列表](tenantosupsugaido/2.-qu-dao-guan-li/2.1-qun-zu-guan-li-yuan-lie-biao.md)
-  * [2.2 群组管理](tenantosupsugaido/2.-qu-dao-guan-li/2.2-qun-zu-guan-li.md)
-  * [2.3 时长管理(群组)](tenantosupsugaido/2.-qu-dao-guan-li/2.3-shi-chang-guan-li-qun-zu.md)
+  * [2.1 グループ管理者一覧](tenantosupsugaido/2.-qu-dao-guan-li/2.1-qun-zu-guan-li-yuan-lie-biao.md)
+  * [2.2 グループ管理](tenantosupsugaido/2.-qu-dao-guan-li/2.2-qun-zu-guan-li.md)
+  * [2.3 期間管理（グループ）](tenantosupsugaido/2.-qu-dao-guan-li/2.3-shi-chang-guan-li-qun-zu.md)
 * [3. 用户管理](tenantosupsugaido/3.-yong-hu-guan-li/README.md)
   * [3.1 标签管理](tenantosupsugaido/3.-yong-hu-guan-li/3.1-biao-qian-guan-li.md)
   * [3.2 第三方用户管理](tenantosupsugaido/3.-yong-hu-guan-li/3.2-di-san-fang-yong-hu-guan-li.md)
