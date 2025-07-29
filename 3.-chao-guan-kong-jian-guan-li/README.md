@@ -4,7 +4,7 @@ icon: house-user
 
 # 3. スペース管理
 
-<div align="left"><figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="311"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="311"><figcaption></figcaption></figure></div>
 
 
 
